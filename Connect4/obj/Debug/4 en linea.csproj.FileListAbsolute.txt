@@ -1,0 +1,56 @@
+C:\Users\augus\Desktop\4 en lineas\Connect4\Connect4\obj\Debug\4 en linea.csprojAssemblyReference.cache
+C:\Users\augus\Desktop\4 en lineas\Connect4\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+C:\Users\augus\Desktop\4 en lineas\Connect4\Connect4\obj\Debug\4 en linea.csproj.GenerateResource.cache
+C:\Users\augus\Desktop\4 en lineas\Connect4\Connect4\obj\Debug\4 en linea.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\4 en lineas\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\augus\Desktop\4 en lineas\Connect4\Connect4\obj\Debug\Connect4.pdb
+C:\Users\augus\Desktop\4 en lineas\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\augus\Desktop\4 en lineas\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\augus\Desktop\4 en lineas\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\augus\Desktop\4 en lineas\Connect4\Connect4\obj\Debug\Connect4.Ventana.resources
+C:\Users\Tongas\Downloads\Connect4\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\Tongas\Downloads\Connect4\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\Tongas\Downloads\Connect4\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\Tongas\Downloads\Connect4\Connect4\Connect4\obj\Debug\4 en linea.csprojAssemblyReference.cache
+C:\Users\Tongas\Downloads\Connect4\Connect4\Connect4\obj\Debug\Connect4.Ventana.resources
+C:\Users\Tongas\Downloads\Connect4\Connect4\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+C:\Users\Tongas\Downloads\Connect4\Connect4\Connect4\obj\Debug\4 en linea.csproj.GenerateResource.cache
+C:\Users\Tongas\Downloads\Connect4\Connect4\Connect4\obj\Debug\4 en linea.csproj.CoreCompileInputs.cache
+C:\Users\Tongas\Downloads\Connect4\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\Tongas\Downloads\Connect4\Connect4\Connect4\obj\Debug\Connect4.pdb
+C:\Users\augus\Desktop\Connect4\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\augus\Desktop\Connect4\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\augus\Desktop\Connect4\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\augus\Desktop\Connect4\Connect4\Connect4\obj\Debug\4 en linea.csprojAssemblyReference.cache
+C:\Users\augus\Desktop\Connect4\Connect4\Connect4\obj\Debug\Connect4.Ventana.resources
+C:\Users\augus\Desktop\Connect4\Connect4\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+C:\Users\augus\Desktop\Connect4\Connect4\Connect4\obj\Debug\4 en linea.csproj.GenerateResource.cache
+C:\Users\augus\Desktop\Connect4\Connect4\Connect4\obj\Debug\4 en linea.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\Connect4\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\augus\Desktop\Connect4\Connect4\Connect4\obj\Debug\Connect4.pdb
+C:\Users\augus\Desktop\Connect4\Connect4\Connect4\obj\Debug\Connect4.ventanaMenu.resources
+C:\Users\augus\Desktop\Connect4\Connect4\Connect4\obj\Debug\Connect4.ventanaJvJ.resources
+C:\Users\augus\OneDrive\Documentos\TSP\Programación III\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\augus\OneDrive\Documentos\TSP\Programación III\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\augus\OneDrive\Documentos\TSP\Programación III\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\augus\OneDrive\Documentos\TSP\Programación III\Connect4\Connect4\obj\Debug\4 en linea.csprojAssemblyReference.cache
+C:\Users\augus\OneDrive\Documentos\TSP\Programación III\Connect4\Connect4\obj\Debug\Connect4.Ventana.resources
+C:\Users\augus\OneDrive\Documentos\TSP\Programación III\Connect4\Connect4\obj\Debug\Connect4.ventanaMenu.resources
+C:\Users\augus\OneDrive\Documentos\TSP\Programación III\Connect4\Connect4\obj\Debug\Connect4.ventanaJvJ.resources
+C:\Users\augus\OneDrive\Documentos\TSP\Programación III\Connect4\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+C:\Users\augus\OneDrive\Documentos\TSP\Programación III\Connect4\Connect4\obj\Debug\4 en linea.csproj.GenerateResource.cache
+C:\Users\augus\OneDrive\Documentos\TSP\Programación III\Connect4\Connect4\obj\Debug\4 en linea.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Documentos\TSP\Programación III\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\augus\OneDrive\Documentos\TSP\Programación III\Connect4\Connect4\obj\Debug\Connect4.pdb
+C:\Users\PC\Documents\TSP\Programación III\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\PC\Documents\TSP\Programación III\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\PC\Documents\TSP\Programación III\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\PC\Documents\TSP\Programación III\Connect4\Connect4\obj\Debug\4 en linea.csprojAssemblyReference.cache
+C:\Users\PC\Documents\TSP\Programación III\Connect4\Connect4\obj\Debug\Connect4.Ventana.resources
+C:\Users\PC\Documents\TSP\Programación III\Connect4\Connect4\obj\Debug\Connect4.ventanaMenu.resources
+C:\Users\PC\Documents\TSP\Programación III\Connect4\Connect4\obj\Debug\Connect4.ventanaJvJ.resources
+C:\Users\PC\Documents\TSP\Programación III\Connect4\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+C:\Users\PC\Documents\TSP\Programación III\Connect4\Connect4\obj\Debug\4 en linea.csproj.GenerateResource.cache
+C:\Users\PC\Documents\TSP\Programación III\Connect4\Connect4\obj\Debug\4 en linea.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\TSP\Programación III\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\PC\Documents\TSP\Programación III\Connect4\Connect4\obj\Debug\Connect4.pdb
